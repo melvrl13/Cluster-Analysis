@@ -7,7 +7,7 @@ Its underlying functions are
 
 CLUSTERPOPULATIONS calculates populations (as a whole number count) and equilibrium probability distribution.
 
-MARKOVTIMESERIES takes each row and turn them into a set of vertically concatonated columns. Assign each frame a cluster number. 
+CLUSTERTIMESERIES takes each row and turn them into a set of vertically concatonated columns. Assign each frame a cluster number. 
 
 MARKOVRATEMATRIX calculate a row-normalized rate matrix given a set of cluster numbers and corresponding frames in the form [frames cluster#]
 
